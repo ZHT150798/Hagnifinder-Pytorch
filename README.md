@@ -59,7 +59,7 @@ Learning rate, optimizer and loss function can all be set in __main__ of train.p
 3. Set the parameter 'sf'= (Scaling factor calculated in step 2), continue to train the model (requires parameter 'ASM'=False, parameter 'cs'=False).
 
 #### The flow chart of model training
-![img.png](\img.png)
+![节点](./img.png)
 
 # Test
 #### To ensure prediction accuracy, make sure that the image being tested contains a large number of nuclei!!!
