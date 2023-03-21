@@ -75,13 +75,4 @@ The script takes the following command line options:
 Citation:
 
 1.  ZHANG H, LIU Z, SONG M, LU C. Hagnifinder: Recovering magnification information of digital histological images using deep learning[J/OL]. Journal of Pathology Informatics, 2023, 14: 100302. DOI:10.1016/j.jpi.2023.100302.
-    
 
-
-
-
-
-
-
-# Test
-# Hagnifinder-Pytorch
